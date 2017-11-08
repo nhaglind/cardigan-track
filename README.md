@@ -1,24 +1,3 @@
-# README
+# Cardigan Track
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+It's getting cold, I have holes in my cardigan. I need new ones. I want to track them and pull in deals via an API based on brands then send me a notification.

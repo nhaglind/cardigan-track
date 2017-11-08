@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Brand:</strong>
+  <%= @cardigan.brand %>
+</p>
+
+<p>
+  <strong>Color:</strong>
+  <%= @cardigan.color %>
+</p>
+
+<%= link_to 'Edit', edit_cardigan_path(@cardigan) %> |
+<%= link_to 'Back', cardigans_path %>

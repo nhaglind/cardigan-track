@@ -1,0 +1,2 @@
+class Cardigan < ApplicationRecord
+end
